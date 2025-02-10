@@ -14,6 +14,6 @@ git commit -m "why you commited"
 
 * push the changes to Github/Centralrepo
 ```````
-git puch -u origin main
+git push -u origin main
 
 **naming convention: use small case with hyphons(-). No spaces** 
